@@ -1,0 +1,28 @@
+﻿@page "/logout"
+@using BlazorWebAssemblyStandaloneAppSecure.Services
+@inject IAccountManagement Acc
+
+<h3>Logout</h3>
+<AuthorizeView @ref="authView">
+    <Authorized>
+        <div class="alert alert-info">Logging you out..</div>
+    </Authorized>
+    <NotAuthorized>
+        <div class="alert alert-success">You're logged out..<a herf="/login">Log in.</a></div>
+    </NotAuthorized>
+
+</AuthorizeView>
+
+@code {
+    private AuthorizeView? authView;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (await Acc.CheckAuthenticateAsync())
+        {
+            await Acc.LogoutAsync();
+        }
+        await base.OnInitializedAsync();
+    }
+
+}

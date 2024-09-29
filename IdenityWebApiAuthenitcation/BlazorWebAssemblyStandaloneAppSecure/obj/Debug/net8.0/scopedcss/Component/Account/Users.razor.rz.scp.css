@@ -1,0 +1,31 @@
+/* Fix height and enable scrolling */
+.grid[b-3pc185iuuo] {
+    height: 25rem;
+    overflow-y: auto;
+}
+
+    .grid[b-3pc185iuuo]  table {
+        min-width: 100%;
+    }
+
+/* Sticky header while scrolling */
+[b-3pc185iuuo] thead {
+    position: sticky;
+    top: 0;
+    background-color: #d8d8d8;
+    outline: 1px solid gray;
+    z-index: 1;
+}
+
+/* For virtualized grids, it's essential that all rows have the same known height */
+[b-3pc185iuuo] tr {
+    height: 30px;
+    border-bottom: 0.5px solid silver;
+}
+
+[b-3pc185iuuo] tbody td {
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 0;
+    text-overflow: ellipsis;
+}

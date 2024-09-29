@@ -1,0 +1,75 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorWebAssemblyStandaloneAppSecure
+build_property.RootNamespace = BlazorWebAssemblyStandaloneAppSecure
+build_property.ProjectDir = D:\QuadRION\IdentityWebApiAuth\IdenityWebApiAuthenitcation\BlazorWebAssemblyStandaloneAppSecure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\QuadRION\IdentityWebApiAuth\IdenityWebApiAuthenitcation\BlazorWebAssemblyStandaloneAppSecure
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/Addroles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcQWRkcm9sZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/EditUpdateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcRWRpdFVwZGF0ZVVzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Component/Account/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEFjY291bnRcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3pc185iuuo
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6yixrzoaw4
+
+[D:/QuadRION/IdentityWebApiAuth/IdenityWebApiAuthenitcation/BlazorWebAssemblyStandaloneAppSecure/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eobjl3pnpm
